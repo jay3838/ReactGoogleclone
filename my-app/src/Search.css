@@ -1,0 +1,30 @@
+.Search__input {
+  display: flex;
+  border: 1px solid lightgray;
+  align-items: center;
+  width: 50vw;
+  height: 30px;
+  padding: 10px 20px;
+  border-radius: 999px;
+  margin: 0 auto;
+  margin-top: -13px;
+}
+.Search__input > input {
+  border: none;
+  width: 1000px;
+  font-size: 20px;
+}
+.Search__input > input:focus {
+  outline-width: 0;
+}
+.Search__button {
+  display: flex;
+  justify-content: center;
+}
+.Search__button button {
+  margin: 35px -94px 35px 106px;
+  /* margin: 5px;
+   padding: 7px 15px; */
+  background-color: #f8f8f8;
+  border: 1px solid white;
+}
