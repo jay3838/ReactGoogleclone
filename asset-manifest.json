@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactGoogleclone/static/css/main.dce9ac0d.chunk.css",
+    "main.js": "/ReactGoogleclone/static/js/main.de5a0057.chunk.js",
+    "main.js.map": "/ReactGoogleclone/static/js/main.de5a0057.chunk.js.map",
+    "runtime-main.js": "/ReactGoogleclone/static/js/runtime-main.fc500adb.js",
+    "runtime-main.js.map": "/ReactGoogleclone/static/js/runtime-main.fc500adb.js.map",
+    "static/js/2.cc98400c.chunk.js": "/ReactGoogleclone/static/js/2.cc98400c.chunk.js",
+    "static/js/2.cc98400c.chunk.js.map": "/ReactGoogleclone/static/js/2.cc98400c.chunk.js.map",
+    "index.html": "/ReactGoogleclone/index.html",
+    "static/css/main.dce9ac0d.chunk.css.map": "/ReactGoogleclone/static/css/main.dce9ac0d.chunk.css.map",
+    "static/js/2.cc98400c.chunk.js.LICENSE.txt": "/ReactGoogleclone/static/js/2.cc98400c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc500adb.js",
+    "static/js/2.cc98400c.chunk.js",
+    "static/css/main.dce9ac0d.chunk.css",
+    "static/js/main.de5a0057.chunk.js"
+  ]
+}
